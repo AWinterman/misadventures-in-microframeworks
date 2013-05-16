@@ -7,7 +7,7 @@ All you need is:
 
 # Use the dominant paradigm #
 `http` expects `function(req, resp){}`, it's difficult to make something that
-supports its breadth of use cases without imitating the syntax.
+supports its breadth of use cases without mirroring the syntax.
 
 # There wasn't really all that much to be done! #
 

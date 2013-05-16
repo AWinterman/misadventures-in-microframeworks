@@ -1,4 +1,4 @@
-A current example:
+# A current example: #
 
 ```javascript
 var Demi = require("demi")

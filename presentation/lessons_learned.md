@@ -1,8 +1,9 @@
 # Microframeworks are actually pretty simple #
 All you need is:
+
 1. URL routing
 2. Static file serving
-<strike> 3. templating? </strike>
+3.<strike> templating? </strike>
 
 # Use the dominant paradigm #
 `http` expects `function(req, resp){}`, it's difficult to make something that

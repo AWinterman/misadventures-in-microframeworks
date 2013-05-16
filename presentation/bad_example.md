@@ -30,7 +30,7 @@ demi.run(8769)
 - Async in the callback body gets complicated.
 - Server side events?
 
-[moving forward](next_steps)
+[moving forward](next_steps.md)
 
 
 

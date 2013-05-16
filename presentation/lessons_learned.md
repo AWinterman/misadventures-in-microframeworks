@@ -3,7 +3,7 @@ All you need is:
 
 1. URL routing
 2. Static file serving
-3.<strike> templating? </strike>
+3. <strike> templating? </strike>
 
 # Use the dominant paradigm #
 `http` expects `function(req, resp){}`, it's difficult to make something that
